@@ -1,0 +1,55 @@
+[
+   {
+      "posX" : 25,
+      "posY" : 3   },
+   {
+      "posX" : 35,
+      "posY" : 3
+   },
+   {
+      "posX" : 45,
+      "posY" : 3
+   },
+   {
+      "posX" : 55,
+      "posY" : 3   },
+   {
+      "posX" : 65,
+      "posY" : 3
+   },
+   {
+      "posX" : 25,
+      "posY" : 6   },
+   {
+      "posX" : 35,
+      "posY" : 6   },
+   {
+      "posX" : 45,
+      "posY" : 6   },
+   {
+      "posX" : 55,
+      "posY" : 6   },
+   {
+      "posX" : 65,
+      "posY" : 6   },
+   {
+      "posX" : 25,
+      "posY" : 9
+   },
+   {
+      "posX" : 35,
+      "posY" : 9
+   },
+   {
+      "posX" : 45,
+      "posY" : 9
+   },
+   {
+      "posX" : 55,
+      "posY" : 9
+   },
+   {
+      "posX" : 65,
+      "posY" : 9
+   }
+]

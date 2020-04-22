@@ -1,0 +1,14 @@
+﻿  Bullet.cpp
+  EnemyUnit.cpp
+  GameScene.cpp
+  StageMap.cpp
+c:\users\문형우\desktop\플밍\consoleshootingsol\consoleshooting\stagemap.cpp(31): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\문형우\desktop\플밍\consoleshootingsol\consoleshooting\stagemap.cpp(40): warning C4996: 'Json::Reader': Use CharReader and CharReaderBuilder instead.
+  c:\users\문형우\desktop\플밍\consoleshootingsol\consoleshooting\json\json.h(1569): note: 'Json::Reader' 선언을 참조하십시오.
+c:\users\문형우\desktop\플밍\consoleshootingsol\consoleshooting\stagemap.cpp(40): warning C4996: 'Json::Reader::Reader': Use CharReader and CharReaderBuilder instead
+  c:\users\문형우\desktop\플밍\consoleshootingsol\consoleshooting\json\json.h(1587): note: 'Json::Reader::Reader' 선언을 참조하십시오.
+c:\users\문형우\desktop\플밍\consoleshootingsol\consoleshooting\stagemap.cpp(42): warning C4996: 'Json::Reader::parse': Use CharReader and CharReaderBuilder instead.
+  c:\users\문형우\desktop\플밍\consoleshootingsol\consoleshooting\json\json.h(1609): note: 'Json::Reader::parse' 선언을 참조하십시오.
+  main.cpp
+  코드를 생성하고 있습니다...
+  ConsoleShooting.vcxproj -> C:\Users\문형우\Desktop\플밍\ConsoleShootingSol\Debug\ConsoleShooting.exe

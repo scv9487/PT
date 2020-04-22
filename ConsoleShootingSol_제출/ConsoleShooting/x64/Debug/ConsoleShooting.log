@@ -1,0 +1,73 @@
+﻿  Bullet.cpp
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\bullet.cpp(60): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\bullet.cpp(71): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ControlQueue.cpp
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(8): error C3646: 'posX': 알 수 없는 재정의 지정자입니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(9): error C3646: 'posY': 알 수 없는 재정의 지정자입니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(9): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(10): error C3646: 'hp': 알 수 없는 재정의 지정자입니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(13): error C2065: 'UINT': 선언되지 않은 식별자입니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(13): error C2146: 구문 오류: ')'이(가) 'x' 식별자 앞에 없습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(78): error C2039: 'posY': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(82): error C2039: 'posX': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(82): error C2039: 'posY': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(82): error C3861: 'SetPlayerPos': 식별자를 찾을 수 없습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(85): error C2039: 'posY': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(89): error C2039: 'posX': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(89): error C2039: 'posY': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(89): error C3861: 'SetPlayerPos': 식별자를 찾을 수 없습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(92): error C2039: 'posX': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(96): error C2039: 'posX': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(96): error C2039: 'posY': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(96): error C3861: 'SetPlayerPos': 식별자를 찾을 수 없습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(99): error C2039: 'posX': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(103): error C2039: 'posX': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(103): error C2039: 'posY': 'PlayerUnit'의 멤버가 아닙니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\playerunit.h(6): note: 'PlayerUnit' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\controlqueue.cpp(103): error C3861: 'SetPlayerPos': 식별자를 찾을 수 없습니다.
+  EndScene.cpp
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\endscene.cpp(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+  EnemyUnit.cpp
+  GameScene.cpp
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\gamescene.cpp(62): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  jsoncpp.cpp
+  main.cpp
+  PlayerUnit.cpp
+  ScreenRender.cpp
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\screenrender.cpp(33): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StageMap.cpp
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(29): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(37): warning C4996: 'Json::Reader': Use CharReader and CharReaderBuilder instead.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\json\json.h(1569): note: 'Json::Reader' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(43): error C2593: 'operator ['이(가) 모호합니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\json\json.h(1005): note: 'Json::Value &Json::Value::operator [](int)'일 수 있습니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\json\json.h(1004): note: 또는       'Json::Value &Json::Value::operator [](Json::Value::ArrayIndex)'
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(43): note: 인수 목록 '(Json::Value, size_t)'을(를) 일치시키는 동안
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(44): error C2593: 'operator ['이(가) 모호합니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\json\json.h(1005): note: 'Json::Value &Json::Value::operator [](int)'일 수 있습니다.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\json\json.h(1004): note: 또는       'Json::Value &Json::Value::operator [](Json::Value::ArrayIndex)'
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(44): note: 인수 목록 '(Json::Value, size_t)'을(를) 일치시키는 동안
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(37): warning C4996: 'Json::Reader::Reader': Use CharReader and CharReaderBuilder instead
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\json\json.h(1587): note: 'Json::Reader::Reader' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(39): warning C4996: 'Json::Reader::parse': Use CharReader and CharReaderBuilder instead.
+  c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\json\json.h(1609): note: 'Json::Reader::parse' 선언을 참조하십시오.
+  TitleScene.cpp
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\titlescene.cpp(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\titlescene.cpp(66): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
