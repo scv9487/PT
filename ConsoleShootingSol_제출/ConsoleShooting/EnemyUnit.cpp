@@ -1,5 +1,4 @@
 
-#include <Windows.h>
 #include "EnemyUnit.h"
 #include <iostream>
 #include "Bullet.h"

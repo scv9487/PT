@@ -1,13 +1,4 @@
-﻿  Bullet.cpp
-  ControlQueue.cpp
-  EndScene.cpp
-c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\endscene.cpp(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
-  EnemyUnit.cpp
-  GameScene.cpp
-  jsoncpp.cpp
-  main.cpp
-  PlayerUnit.cpp
+﻿  GameScene.cpp
   ScreenRender.cpp
   StageMap.cpp
 c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(29): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
@@ -18,9 +9,9 @@ c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(37)
 c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\stagemap.cpp(39): warning C4996: 'Json::Reader::parse': Use CharReader and CharReaderBuilder instead.
   c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\json\json.h(1609): note: 'Json::Reader::parse' 선언을 참조하십시오.
   TitleScene.cpp
-c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\titlescene.cpp(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\titlescene.cpp(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
-c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\titlescene.cpp(66): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\loganmoon\pt\consoleshootingsol_제출\consoleshooting\titlescene.cpp(67): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
   코드를 생성하고 있습니다...
   ConsoleShooting.vcxproj -> C:\Users\LoganMoon\PT\ConsoleShootingSol_제출\Debug\ConsoleShooting.exe

@@ -1,7 +1,8 @@
 
-#include "TitleScene.h"
+#include <Windows.h>
 #include <conio.h> // console input and output
 #include <iostream>
+#include "TitleScene.h"
 #include "ScreenRender.h"
 #include "StageMap.h"
 #include "PlayerUnit.h"

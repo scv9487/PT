@@ -1,6 +1,7 @@
 
-#include "ScreenRender.h"
+#include <Windows.h>
 #include <iostream>
+#include "ScreenRender.h"
 
 using namespace std;
 

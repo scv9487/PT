@@ -1,8 +1,8 @@
 #pragma once
 
-
 #define BULLET_COUNT 100
 
+typedef unsigned int UINT;
 enum BulletType {PlayerBullet,EnemyBullet};
 
 struct Bullet

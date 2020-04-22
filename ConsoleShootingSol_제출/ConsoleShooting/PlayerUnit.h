@@ -1,7 +1,8 @@
 #pragma once
 
-#include <Windows.h> // 원래 여기 있었습니다.
 #define PLAYER_HP 3
+
+typedef unsigned int UINT;
 
 struct PlayerUnit
 {

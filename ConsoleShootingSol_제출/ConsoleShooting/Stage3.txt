@@ -34,19 +34,19 @@
       "posY" : 6   },
    {
       "posX" : 25,
-      "posY" : 9
+      "posY" : 12
    },
    {
       "posX" : 35,
-      "posY" : 9
+      "posY" : 12
    },
    {
       "posX" : 45,
-      "posY" : 9
+      "posY" : 15
    },
    {
       "posX" : 55,
-      "posY" : 9
+      "posY" : 12
    },
    {
       "posX" : 65,

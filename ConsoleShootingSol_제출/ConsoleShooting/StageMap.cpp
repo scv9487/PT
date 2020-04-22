@@ -1,8 +1,8 @@
 
-#include "StageMap.h"
-
+#include <Windows.h>
 #include <tchar.h>
 #include <iostream>
+#include "StageMap.h"
 #include "EnemyUnit.h"
 #include "json/json.h"
 

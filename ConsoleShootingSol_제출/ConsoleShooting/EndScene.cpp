@@ -1,6 +1,7 @@
 
-#include "EndScene.h"
 #include <iostream>
+#include <Windows.h>
+#include "EndScene.h"
 #include "TitleScene.h"
 #include "ScreenRender.h"
 

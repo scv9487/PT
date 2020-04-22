@@ -1,8 +1,9 @@
 #pragma once
 
-#include <Windows.h>
 #define CONSOLE_WIDTH 99
 #define CONSOLE_HEIGHT 40
+
+typedef unsigned int UINT;
 
 void MoveCursor(int x, int y);
 void ClearScreenBuf();

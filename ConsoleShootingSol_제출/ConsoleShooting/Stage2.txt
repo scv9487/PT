@@ -1,48 +1,46 @@
 [
    {
       "posX" : 30,
-      "posY" : 3   },
+      "posY" : 4   },
    {
       "posX" : 35,
       "posY" : 3
    },
    {
       "posX" : 45,
-      "posY" : 3
+      "posY" : 4
    },
    {
       "posX" : 55,
       "posY" : 3   },
    {
       "posX" : 65,
-      "posY" : 3
-   },
+      "posY" : 4   },
    {
       "posX" : 25,
-      "posY" : 6   },
+      "posY" : 5   },
    {
       "posX" : 35,
       "posY" : 6   },
    {
       "posX" : 45,
-      "posY" : 6   },
+      "posY" : 5   },
    {
       "posX" : 55,
       "posY" : 6   },
    {
       "posX" : 65,
-      "posY" : 6   },
+      "posY" : 5   },
    {
       "posX" : 25,
-      "posY" : 9
-   },
+      "posY" : 8   },
    {
       "posX" : 35,
       "posY" : 9
    },
    {
       "posX" : 45,
-      "posY" : 9
+      "posY" : 8
    },
    {
       "posX" : 55,
@@ -50,6 +48,5 @@
    },
    {
       "posX" : 65,
-      "posY" : 9
-   }
+      "posY" : 8   }
 ]
