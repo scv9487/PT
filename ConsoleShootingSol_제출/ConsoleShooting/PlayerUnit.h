@@ -1,6 +1,6 @@
 #pragma once
 
-//#include <Windows.h> // 원래 여기 있었습니다.
+#include <Windows.h> // 원래 여기 있었습니다.
 #define PLAYER_HP 3
 
 struct PlayerUnit
